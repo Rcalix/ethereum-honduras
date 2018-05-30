@@ -6,7 +6,7 @@ This document serves as an outline of the required readings to catch up with and
 
 Our conversation around Ethereum specific to developers in Honduras will happen on the Gitter channel for this repo. Check out the link below:
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereum-honduras/lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereum-honduras/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## Necessary Go Knowledge & Readings
 
