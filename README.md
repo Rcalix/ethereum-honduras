@@ -129,5 +129,3 @@ With respect to knowing enough about sharding, we will cover the requirements fo
 -   [RANDAO Notary Committees](https://ethresear.ch/t/fork-free-randao/1835/3)
 -   [Safe Notary Pool Size](https://ethresear.ch/t/safe-notary-pool-size/1728/3)
 -   [Cross Links Between Main and Shard Chains](https://ethresear.ch/t/cross-links-between-main-chain-and-shards/1860/2)
-
-
